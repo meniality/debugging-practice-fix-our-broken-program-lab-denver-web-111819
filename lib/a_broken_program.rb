@@ -1,4 +1,4 @@
-# What is a Program?
+def a_working_program
 
 puts "This is a program"
 puts "Programs are interpreted at runtime."
@@ -20,4 +20,4 @@ puts "Finally, barewords, or variables, that are set equal to things."
 
 puts "Anything that isn't one of those will cause an error."
 
-see
+end
